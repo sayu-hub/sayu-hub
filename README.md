@@ -55,21 +55,6 @@ Circle website.
 
 ---
 
-### 📊 Typing Research
-
-Research on how hand characteristics and keyboard layouts affect typing performance.
-
----
-
-## 📈 GitHub Stats
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayu-hub&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sayu-hub&theme=github-dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sayu-hub&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 📫 Contact
 
 Feel free to contact me!
