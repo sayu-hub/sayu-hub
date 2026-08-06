@@ -10,9 +10,9 @@
 
 ## 🌐 Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blue?style=for-the-badge)](https://your-portfolio.com)
-[![X](https://img.shields.io/badge/X-@your_account-black?logo=x&style=for-the-badge)](https://x.com/your_account)
-[![Blog](https://img.shields.io/badge/Blog-Coming_Soon-orange?style=for-the-badge)](https://your-blog.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blue?style=for-the-badge)]((https://github.com/sayu-hub)
+[![X](https://img.shields.io/badge/X-@your_account-black?logo=x&style=for-the-badge)](https://x.com/Pooh_pol0)
+[![Blog](https://img.shields.io/badge/Blog-Coming_Soon-orange?style=for-the-badge)](https://note/pooh_polo)
 
 ---
 
