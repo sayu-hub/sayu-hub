@@ -10,7 +10,7 @@
 
 ## 🌐 Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blue?style=for-the-badge)]((https://github.com/sayu-hub)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blue?style=for-the-badge)](https://github.com/sayu-hub)
 [![X](https://img.shields.io/badge/X-@your_account-black?logo=x&style=for-the-badge)](https://x.com/Pooh_pol0)
 [![Blog](https://img.shields.io/badge/Blog-Coming_Soon-orange?style=for-the-badge)](https://note/pooh_polo)
 
@@ -63,9 +63,9 @@ Research on how hand characteristics and keyboard layouts affect typing performa
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_NAME&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayu-hub&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_NAME&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayu-hub&layout=compact&theme=github_dark)
 
 ---
 
@@ -73,6 +73,5 @@ Research on how hand characteristics and keyboard layouts affect typing performa
 
 Feel free to contact me!
 
-- 📧 your@email.com
-- 🌐 Portfolio
+- 📧 sayu.bizmail@gmail.com
 - 🐦 X (Twitter)
