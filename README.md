@@ -27,7 +27,7 @@
 
 ## 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,fastapi,firebase,py,c,cpp,git,github,figma,html,css,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,arduino,blender,firebase,ps,py,c,wordpress)](https://skillicons.dev)
 
 ---
 
@@ -39,18 +39,18 @@ Custom split keyboard with trackball.
 
 - ZMK Firmware
 - KiCad
+- Fusion
 - 3D Printing
-- BLE
+- Team Development
 
 ---
 
-### 🌐 Festival Web
+### 🌐 Circle Web
 
-University festival website.
+Circle website.
 
 - React
 - FastAPI
-- Firebase
 - Team Development
 
 ---
