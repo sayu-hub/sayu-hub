@@ -62,6 +62,7 @@ Research on how hand characteristics and keyboard layouts affect typing performa
 ---
 
 ## 📈 GitHub Stats
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayu-hub&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayu-hub&show_icons=true&theme=github_dark)
 
