@@ -1,4 +1,4 @@
-# Hi there, I'm Pooh Polo 👋
+# Hi there, I'm Sayu 👋
 
 🎓 **college student**  
 
