@@ -4,7 +4,6 @@
 
 ⌨️ Custom Keyboard Developer  
 🌐 Web Application Developer  
-📚 Interested in Full-Stack Development
 
 ---
 
