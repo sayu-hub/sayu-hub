@@ -18,15 +18,8 @@
 ## 💡 About Me
 
 - ⌨️ Developing and selling custom split keyboards
-- 🌐 Building web applications with React & FastAPI
-- 📊 Researching typing performance and keyboard layouts
+- 🌐 Building web applications
 - 🤝 Enjoy team development using GitHub
-
----
-
-## 🛠 Skills
-
-[![My Skills](https://skillicons.dev/icons?i=react,vite,arduino,blender,firebase,ps,py,c,wordpress)](https://skillicons.dev)
 
 ---
 
@@ -37,20 +30,18 @@
 Custom split keyboard with trackball.
 
 - ZMK Firmware
-- KiCad
-- Fusion
-- 3D Printing
+- KiCad / Fusion
 - Team Development
 
 ---
 
-### 🌐 Circle Web
+### 🌐 moNa Project website
 
 Circle website.
 
-- React
-- FastAPI
-- Team Development
+- Astro
+- Type Script
+- Cloud Workers
 
 ---
 
