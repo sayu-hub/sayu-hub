@@ -1,6 +1,6 @@
 # Hi there, I'm Sayu 👋
 
-🎓 **college student**  
+🎓 college student
 
 ⌨️ Custom Keyboard Developer  
 🌐 Web Application Developer  
