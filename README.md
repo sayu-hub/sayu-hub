@@ -37,7 +37,7 @@ Custom split keyboard with trackball.
 
 ### 🌐 moNa Project website
 
-Circle website.
+https://mona-kbd.com/
 
 - Astro
 - Type Script
